@@ -1,9 +1,28 @@
-body{
+body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: sans-serif;
+
 }
-p span{
-    color: brown;
+.container {
+    background: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.boxcontainer {
+    background: blue;
+    height: 400px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.uno {
+    background: yellow;
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
 }
