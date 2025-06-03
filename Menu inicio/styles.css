@@ -1,0 +1,46 @@
+body {
+  font-family: sans-serif;
+  background: #cfcfcf;
+  margin: 0;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+
+header {
+  background-color: #ffffff;
+  display: flex;
+  min-height: 80px;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+h2 {
+  color: black;
+}
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo img {
+  height: 50px;
+  margin-right: 12px;
+}
+nav a {
+  padding-right: 15px;
+  color: black;
+  font-weight: bold;
+}
+nav a:hover {
+  color: #1d8b52;
+}
+@media (max-width: 600px) {
+  header {
+    flex-direction: column;
+  }
+  nav {
+    padding: 10px 0px;
+  }
+}
