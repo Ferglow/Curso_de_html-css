@@ -2,6 +2,7 @@
 
 Este proyecto es una barra de búsqueda minimalista y responsiva creada con HTML y CSS.
 
+
 ## Características
 
 - Diseño limpio y moderno.
