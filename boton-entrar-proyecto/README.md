@@ -42,4 +42,6 @@ El botón "entrar" está diseñado para ser minimalista y responsivo, adaptándo
 Las contribuciones son bienvenidas. Si deseas mejorar este proyecto, por favor abre un "issue" o envía un "pull request".
 
 
-![alt text](image.png)
+## Imagen representativa
+
+![alt text](image-1.png)
