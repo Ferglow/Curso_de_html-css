@@ -25,4 +25,4 @@ Fernando
 
 ## Imagen representativa
 
-![alt text](image.png)
+![alt text](image-1.png)
