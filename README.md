@@ -22,7 +22,7 @@ Curso_de_html-css/
 ├── 📂 Music/                # Reproductor de música UI
 ├── 📂 NetflixPage/          # Clon de interfaz Netflix
 ├── 📂 NikePage/             # Página inspirada en Nike
-└── 📂 Orden inferiores/     # Ejercicios de orden CSS
+└── 📂 Ondas inferiores/     # Ejercicios de orden CSS
 ```
 
 ## 🚀 Proyectos Destacados
