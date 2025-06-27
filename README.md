@@ -141,10 +141,11 @@ Todos los proyectos están optimizados para:
 
 Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE](LICENSE) para más detalles.
 
-## 👨‍💻 Autor
+## 📞 Contacto
 
-**Ferglow**
-- GitHub: [@Ferglow](https://github.com/Ferglow)
+- **Autor:** Fernando
+- **Email:** fernando.a.h@outlook.com
+- **GitHub:** [@Ferglow](https://github.com/Ferglow)
 
 ---
 
