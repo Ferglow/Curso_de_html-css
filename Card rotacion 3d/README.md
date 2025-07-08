@@ -211,10 +211,9 @@ Las contribuciones son bienvenidas. Para contribuir:
 
 ## 📞 Contacto
 
-- **Autor:** Tu Nombre
-- **Email:** tu.email@ejemplo.com
-- **GitHub:** [@tu-usuario](https://github.com/tu-usuario)
-- **LinkedIn:** [Tu Perfil](https://linkedin.com/in/tu-perfil)
+- **Autor:** Fernando Andres
+- **Email:** fernando.a.h@outlook.co,m
+- **GitHub:** [@Ferglow](https://github.com/Ferglow)
 
 ## 📝 Notas
 
