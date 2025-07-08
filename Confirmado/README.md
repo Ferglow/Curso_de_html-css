@@ -159,6 +159,12 @@ Esta página típicamente se integra con:
 
 ---
 
+## 📞 Contacto
+
+- **Autor:** Fernando
+- **Email:** fernando.a.h@outlook.com
+- **GitHub:** [@Ferglow](https://github.com/Ferglow)
+
 **Nota**: Este proyecto requiere el archivo `style.css` para el diseño visual completo y el logo `paypal_logo.png` para funcionalidad completa.
 
 ## Imagen ilustrativa

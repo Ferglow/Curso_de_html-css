@@ -96,6 +96,12 @@ El proyecto está diseñado para ser fácilmente personalizable:
 
 Desarrollado como proyecto de práctica en desarrollo web frontend.
 
+## 📞 Contacto
+
+- **Autor:** Fernando
+- **Email:** fernando.a.h@outlook.com
+- **GitHub:** [@Ferglow](https://github.com/Ferglow)
+
 ## 📄 Licencia
 
 Este proyecto es de uso educativo y personal.

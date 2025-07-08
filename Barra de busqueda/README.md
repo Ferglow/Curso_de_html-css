@@ -20,9 +20,11 @@ Este proyecto es una barra de búsqueda minimalista y responsiva creada con HTML
 1. Clona o descarga este repositorio.
 2. Abre el archivo `index.html` en tu navegador web.
 
-## Créditos
+## 📞 Contacto
 
-Fernando
+- **Autor:** Fernando
+- **Email:** fernando.a.h@outlook.com
+- **GitHub:** [@Ferglow](https://github.com/Ferglow)
 
 ## Imagen representativa
 
